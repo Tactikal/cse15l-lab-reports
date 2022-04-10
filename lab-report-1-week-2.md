@@ -1,1 +1,1 @@
-![This is an image.](IMG_3624 - Copy.jpg)
+![This is an image.](https://imgur.com/XQ4PsWs)
