@@ -31,3 +31,5 @@ This is a horizontal rule.
 # This is a code block.
 
 ```
+
+We will be using [Autograder](https://autograder.ucsd.edu) as the student queue during TA/tutor office hours.
