@@ -42,4 +42,4 @@ The page should look like this:
 
 
 [1]: https://code.visualstudio.com/download
-[2]: https://github.com/Tactikal/cse15l-lab-reports/blob/main/e2f.JPG
+[2]: e2f.JPG
