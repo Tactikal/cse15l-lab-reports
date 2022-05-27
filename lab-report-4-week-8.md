@@ -29,9 +29,9 @@ Reviewed Implementation:
 ![image][8]
 
 My Implementation Test Result:
-*Passed Test*
+![image][12]
 Reviewed Implementation Test Result:
-*Passed Test*
+![image][13]
 
 ## Snippet 3:
 Expected Output: 
@@ -44,24 +44,28 @@ Reviewed Implementation:
 ![image][9]
 
 My Implementation Test Result:
-*Passed Test*
+![image][14]
 Reviewed Implementation Test Result:
-*Passed Test*
+![image][15]
 
 ## Questions
 1. I think that it would require a more involved change, since none of the links are being parsed correctly. The `MarkdownParse.java` file may require a more refined alogorithm for detecting all the links, which is likely to require more than 10 lines of code.
-2. Since both tests passed, I think `MarkdownParse.java` is working as intended when handling this test case. However, I would make sure that it works for similar cases, so a small change in the code may be necessary.
-3. Similar to snippet 2, I think `MarkdownParse.java` is working as intended when handling this test case. However, I would make sure that it works for similar cases, so a small change in the code may be necessary.
+2. To pass the test case, we made sure that nested or loose parentheses/brackets were handled by changing the code so that it kept better track of opening/closing parentheses and brackets in the local variables.
+3. To pass the test case, we made sure that the code was able to handle line breaks and/or large spaces smoothly and go over them smoothly, and keep track of parentheses/brackets if they were present. 
 
 
 [1]:cqcq.JPG 
-[2]:ccmpmcp.JPG
+[2]:zzncn.JPG
 [3]:nypo.JPG
-[4]:bbacl.JPG
+[4]:mcmn.JPG
 [5]:cqp.JPG
-[6]:cowo.JPG
-[7]:zzncn.JPG
-[8]:mcmn.JPG
-[9]:mlli.JPG
+[6]:mlli.JPG
+[7]:ccmpmcp.JPG
+[8]:bbacl.JPG
+[9]:cowo.JPG
 [10]:bmmm.JPG
 [11]:lkbl.JPG
+[12]:ioxoi.JPG
+[13]:cacvv.JPG
+[14]:pvplk.JPG
+[15]:yokml.JPG
