@@ -1,6 +1,6 @@
 # Lab Report 4
 
-My implementation: [Link](https://github.com/Tactikal/Lab-6-markdown-parser)
+My implementation: [Link](https://github.com/Tactikal/markdown-parser-fork-main)
 Reviewed implementation: [Link](https://github.com/TheJoeship/markdown-parser-other-group)
 I used the CommonMark demo site to generate the expected outputs.
 
