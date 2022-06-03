@@ -4,14 +4,18 @@ I found the tests that had different results using vimdiff on both results.txt f
 I used the CommonMark demo to generate the expected outputs.
 
 ## Test 1: 14.md
-[Link](https://raw.githubusercontent.com/nidhidhamnani/markdown-parser/main/test-files/14.md)
+
+Test case on GitHub: [Link](https://raw.githubusercontent.com/nidhidhamnani/markdown-parser/main/test-files/14.md)
 
 **Expected output:**
+
 It should be `[]` because there are no links in 14.md.
 
 **Actual outputs:**
+
 Shared repository:
 ![image][1]
+
 My repository:
 ![image][2]
 
@@ -22,14 +26,18 @@ The issue with the shared implementation is that it incorrectly parses `/foo` as
 ![image][5]
 
 ## Test 2: 194.md
-[Link](https://raw.githubusercontent.com/nidhidhamnani/markdown-parser/main/test-files/194.md)
+
+Test case on GitHub: [Link](https://raw.githubusercontent.com/nidhidhamnani/markdown-parser/main/test-files/194.md)
 
 **Expected output:**
+
 It should be `[my_(url)]` since it is formatted as a valid link in 194.md.
 
 **Actual outputs:**
+
 Shared repository:
 ![image][3]
+
 My repository:
 ![image][4]
 
